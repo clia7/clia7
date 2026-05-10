@@ -1,4 +1,4 @@
-# Hi, I'm Claudia 👋
+# Hi there ☺️
 
 🎓 Informatics student  
 📊 Aspiring Data Analyst  
