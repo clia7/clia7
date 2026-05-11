@@ -1,4 +1,4 @@
-# Hi there ☺️
+# Hi
 
 🎓 Informatics student  
 📊 Aspiring Data Analyst  
