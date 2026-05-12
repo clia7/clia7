@@ -12,8 +12,10 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ### 📊 My Stats
-![Clia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clia7&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clia7&layout=compact&theme=radical)
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=clia7&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clia7&layout=compact&theme=radical" />
+</p>
 
 <!--
 **clia7/clia7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
