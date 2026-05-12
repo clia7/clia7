@@ -1,29 +1,3 @@
-# Hi
-
-🎓 Informatics student  
-📊 Aspiring Data Analyst  
-🏨 16 years hospitality experience transitioning into tech
-
-## I'm currently learning
-- Python for Data Analysis
-- SQL
-- Power BI
-- Tableau
-
-## My current Projects
-- Titanic Dataset Analysis
-- Coffee Sales Analysis
-- SQL Practice Repository
-
-## Tools
-Python • Pandas • Matplotlib • SQL • Power BI • Git
-
-## 2026 Goals
-- Build strong analytics portfolio
-- Become job-ready for junior data analyst roles
-- Improve business thinking & storytelling with data
-
-
 # Hi there, I'm Clia! 👋
 
 ### 👩‍💻 About Me
@@ -38,12 +12,9 @@ Python • Pandas • Matplotlib • SQL • Power BI • Git
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ### 📊 My Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=clia7&show_icons=true&theme=radical" alt="Clia's GitHub Stats" />
-</p>
+![Clia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clia7&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clia7&layout=compact&theme=radical)
 
-### 📫 Let's Connect
-- GitHub is my main workspace for now!
 <!--
 **clia7/clia7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
