@@ -3,7 +3,7 @@
 ### 👩‍💻 About Me
 - 🎯 **Current Goal:** Mastering Python for Data Analysis & Machine Learning.
 - 📅 **Roadmap:** Committing daily until November to build a solid Data Science foundation.
-- 🧪 **Current Project:** [Titanic EDA & Prediction](https://github.com/clia7/Python_for_Data_Analysis/tree/main/01_Titanic_Case_Study)
+- 🧪 **Current Project:** [Hotel Booking Demand ](https://github.com/clia7/Data_Analytics_Journey/tree/main/02_Hotel_Booking_Case_Study)
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
