@@ -1,8 +1,8 @@
 # Hi there, I'm Clia! 👋
 
 ### 👩‍💻 About Me
-- 🎯 **Current Goal:** Mastering Python for Data Analysis, Python & Machine Learning.
-- 📅 **Roadmap:** Committing daily until November to strengthen my analytical thinking and technical skills through real-life projects..
+- 🎯 **Current Goal:** Building a strong foundation in Data Analytics, Python & Machine Learning
+- 📅 **Roadmap:** Committing daily until November to strengthen my analytical thinking and technical skills through real-life projects
 - 🧪 **Current Project:** [Hotel Booking Demand ](https://github.com/clia7/Data_Analytics_Journey/tree/main/02_Hotel_Booking_Case_Study)
 
 ### 🛠 Tech Stack
