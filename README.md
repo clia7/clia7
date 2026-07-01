@@ -3,7 +3,7 @@
 ### 👩‍💻 About Me
 - 🎯 **Current Goal:** Building a strong foundation in Data Analytics, Python & Machine Learning
 - 📅 **Roadmap:** Committing daily until November to strengthen my analytical thinking and technical skills through real-life projects
-- 🧪 **Current Project:** [Hotel Booking Demand ](https://github.com/clia7/Data_Analytics_Journey/tree/main/02_Hotel_Booking_Case_Study)
+- 🧪 **Current Project:** [Superstore](https://github.com/clia7/Data_Analytics_Journey/tree/main/03_Superstore_Case_Study)
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
