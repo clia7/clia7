@@ -2,8 +2,8 @@
 
 ### 👩‍💻 About Me
 - 🎯 **Current Goal:** Building a strong foundation in Data Analytics, Python & Machine Learning
-- 📅 **Roadmap:** Committing daily until November to strengthen my analytical thinking and technical skills through real-life projects
-- 🧪 **Current Project:** [Superstore](https://github.com/clia7/Data_Analytics_Journey/tree/main/03_Superstore_Case_Study)
+- 📅 **Roadmap:** Committing until Dezember to strengthen my analytical thinking and technical skills through real-life projects
+- 🧪 **Current Project:** [Fitbit Fitness Tracker Data](https://github.com/clia7/Data_Analytics_Journey/tree/main/04_Formula1_Case_Study)
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
