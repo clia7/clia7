@@ -2,8 +2,7 @@
 
 ### 👩‍💻 About Me
 - 🎯 **Current Goal:** Building a strong foundation in Data Analytics, Python & Machine Learning
-- 📅 **Roadmap:** Committing until Dezember to strengthen my analytical thinking and technical skills through real-life projects
-- 🧪 **Current Project:** [Formula1 World Championship](https://github.com/clia7/Data_Analytics_Journey/tree/main/04_Formula1_Case_Study)
+- 📅 **Roadmap:** Strengthening my skills in data analytics, data engineering, and machine learning through hands-on projects and continuous learning.
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
